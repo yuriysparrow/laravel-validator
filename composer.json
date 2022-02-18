@@ -21,7 +21,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "^9.1",
-        "illuminate/validation": ^9.1"
+        "illuminate/validation": "^9.1"
     },
     "autoload": {
         "psr-4": {
